@@ -7,7 +7,7 @@ Welcome to **Barakode Technologies**, where **creativity** meets **technology**!
 
 ## **Featured Project**
 
-### 🎥 **OpenInterview.me**
+### **OpenInterview.me**
 
 **The Modern Interview. Shared Simply.**
 Create and share your video interview with recruiters in minutes.
